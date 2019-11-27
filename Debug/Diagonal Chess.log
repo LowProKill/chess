@@ -1,0 +1,28 @@
+﻿  display.cpp
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\display.cpp(123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\display.cpp(180): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\display.cpp(181): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\display.cpp(316): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\display.cpp(318): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\display.cpp(341): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\display.cpp(363): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\display.cpp(366): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\display.cpp(367): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\display.cpp(382): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\display.cpp(403): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\display.cpp(406): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\display.cpp(407): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  board.cpp
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\board.cpp(701): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\board.cpp(743): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\board.cpp(925): warning C4101: 'takenPiece': unreferenced local variable
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\board.cpp(926): warning C4101: 'legalMoves': unreferenced local variable
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\board.cpp(1182): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lowprokill\projects\diagonal chess\diagonal chess\board.cpp(1213): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  BlakeAI.cpp
+  Diagonal Chess.vcxproj -> C:\Users\Lowprokill\Projects\Diagonal Chess\Debug\Diagonal Chess.exe

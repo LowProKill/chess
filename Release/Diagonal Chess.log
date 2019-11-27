@@ -1,0 +1,49 @@
+﻿  AI.cpp
+AI.cpp(81): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+AI.cpp(234): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+AI.cpp(690): warning C4101: 'takenPiece': unreferenced local variable
+AI.cpp(693): warning C4101: 'difference': unreferenced local variable
+AI.cpp(738): warning C4101: 'takenPiece': unreferenced local variable
+AI.cpp(741): warning C4101: 'difference': unreferenced local variable
+  BlakeAI.cpp
+BlakeAI.cpp(77): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+BlakeAI.cpp(200): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+BlakeAI.cpp(242): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+BlakeAI.cpp(844): warning C4101: 'takenPiece': unreferenced local variable
+BlakeAI.cpp(847): warning C4101: 'difference': unreferenced local variable
+BlakeAI.cpp(892): warning C4101: 'takenPiece': unreferenced local variable
+BlakeAI.cpp(895): warning C4101: 'difference': unreferenced local variable
+  board.cpp
+board.cpp(701): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+board.cpp(743): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+board.cpp(925): warning C4101: 'takenPiece': unreferenced local variable
+board.cpp(926): warning C4101: 'legalMoves': unreferenced local variable
+board.cpp(1182): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+board.cpp(1213): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  display.cpp
+display.cpp(104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+display.cpp(161): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+display.cpp(162): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+display.cpp(269): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+display.cpp(271): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+display.cpp(294): warning C4305: 'argument': truncation from 'double' to 'float'
+display.cpp(316): warning C4305: 'argument': truncation from 'double' to 'float'
+display.cpp(319): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+display.cpp(320): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+display.cpp(751): warning C4305: 'argument': truncation from 'double' to 'float'
+display.cpp(772): warning C4305: 'argument': truncation from 'double' to 'float'
+display.cpp(775): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+display.cpp(776): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  minimax.cpp
+minimax.cpp(133): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+minimax.cpp(136): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+minimax.cpp(295): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+minimax.cpp(298): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+minimax.cpp(1210): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+minimax.cpp(1252): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  saveGame.cpp
+  Generating code
+  All 521 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Diagonal Chess.vcxproj -> C:\Users\Lowprokill\Desktop\My Computer\Misc\Code\Diagonal Chess\Release\Diagonal Chess.exe
